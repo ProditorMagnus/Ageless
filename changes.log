@@ -1,0 +1,21 @@
+Jinn level 4 -> removed wrong drains
+Summoners alignment to original
+Summoners summoned unit types to original
+Added Circle of Susceptibility
+ME Emperor's, ' to _
+Leviathan description, ; to , and Hipparchos from fancy ' to normal '
+AE enlightened_hiddenface capitalisation in rpg era
+EoMa rune warrior and rune lord had holy resist where should be arcane resist
+Removed sun follower from rpg era
+Dark Blood Alliance leader default from shaman
+Fixed all - in units ids
+AE Celestial Quester to level 2
+AE Equestrian Jockey,AE Equestrian Roamer from recruit list
+Increased xp for AE Khaganate Stoic,AE Khaganate Rigid,AE Khaganate Shieldbearer
+AE Blight Spore Hive cost greatly increased
+Movetypes EOM_lightfly EFM_riverman movetypes changed
+Fixed ids in rune aura event
+
+
+
+TODO sky kingdom, eoma new units and faction
