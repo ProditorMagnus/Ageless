@@ -1,22 +1,32 @@
-Version 4.10:
+Version 4.11:
 * Eras and Factions
-    * Era of Four Moons: Added to Heroes and RPG
-    * Mercenary Era: Added to Heroes
-    * Khalifate: Added to RPG
+    * Era of Magic: Added Destroyers faction
 * Graphics
-    * Steelhive: Corrected various attack and upgrade icons
-    * Celestial: Added Light Spirit Graphics
+    * Tharis: New images for most units
 * Balance
-    * Clockwork Soldier Line: Gave Marksman 
-    * Tribalist Executioner: Changed Macuahuitl Attack from Blade to Impact
-    * Oracle Summoner: Changed attacks back to be similar to the various units it is summoning.
+    * Medusa Witch: Removed petrifies as it never ended, added sculpt instead
+	* Quester: Changed from level 3 to 2
+	* Removed level 3 units from recruit list for Equestrians
+	* Stoic line: Increased xp requirements
+	* Spore Hive: Cost 8 -> 32
+	* Battlemage: Hitpoints 25 -> 30
+	* Secutor Leonis: Added ranged attack with weapon special interrupt
+	* Conjurer: Cost 32 -> 39
 * Bug Fixes
-    * Fixed Darklander, Highlander, and Sky Kingdom leader selection
-    * Fixed bug keeping Imperialist and Sky Kingdom factions from recruiting
-    * Fixed Eventide Desperado's hitpoints
-    * Fixed the inability to recruit andy Sky Kingdom units.
+    * Fixed unit ids with symbols that caused corrupt savegames
+    * Fixed RPG era Sky Kingdom Hidden Face
+    * Holy resists changed to arcane
+    * Fixed Dark Blood Alliance Clan Leader in faction select
+	* Fixed Statue line petrify
+	* Movetypes for Loyalist and Light Spirit
+	* Fixed Rune Aura
+	* Added missing unit Bone Snapper
+	* Fixed Fleshpool Sacrifice
 * Other
-    * Implemented Phalanx ability for Ceresian Halberdier and Pikeman
-    * Added Loyalist to SeaState Faction
+    * Summoner line changed to lawful, changed summoned unit of Heavy Summoner, added Circle of Susceptibility
+	* Added Sculptor unit
+	* Rhami line attack name: devine -> divine
+	* Era id is now available in variable era_id
+	* RPG era Mystic Jinn drains changed
 * Outstanding issues
-    * Need to make Statues kill units when down to low enough hp
+    * Organizing this era
