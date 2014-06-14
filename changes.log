@@ -31,5 +31,9 @@ Jinn level 4 -> removed wrong drains # to ifndef there
 	Steelhive oculus line changed to mixed_fighter as that is in ai recruit pattern
 	Added weapon special interrupt to AE Magni Secutor Leonis to compensate for almost no upgrade from level 2 to 3
 	Conjurer cost 32->39
+Slavers fixed some def animations
+	Alligator Rider experience increased
+Brungar units coastal reef def 0% -> 40% or what that unit should have had
+EFM faction select images fixed
 
 # Need more rpg changes still

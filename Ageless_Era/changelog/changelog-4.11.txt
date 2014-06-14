@@ -6,27 +6,21 @@ Version 4.11:
 * Balance
     * Medusa Witch: Removed petrifies as it never ended, added sculpt instead
     * Quester: Changed from level 3 to 2
-    * Removed level 3 units from recruit list for Equestrians
     * Stoic line: Increased xp requirements
     * Spore Hive: Cost 8 -> 32
     * Battlemage: Hitpoints 25 -> 30
     * Secutor Leonis: Added ranged attack with weapon special interrupt
     * Conjurer: Cost 32 -> 39
+    * Alligator Rider: Experience 33 -> 43
 * Bug Fixes
     * Fixed unit ids with symbols that caused corrupt savegames
-    * Fixed RPG era Sky Kingdom Hidden Face
-    * Holy resists changed to arcane
-    * Fixed Dark Blood Alliance Clan Leader in faction select
-    * Fixed Statue line petrify
+    * Fixed Sky Kingdom Hidden Face, Dark Blood Alliance Clan Leader in faction select
     * Movetypes for Loyalist and Light Spirit
-    * Fixed Rune Aura
+    * Fixed Rune Aura, Fleshpool Sacrifice, Brungar Coastal Reef, Holy resists, Statue line petrify
     * Added missing unit Bone Snapper
-    * Fixed Fleshpool Sacrifice
 * Other
     * Summoner line changed to lawful, changed summoned unit of Heavy Summoner, added Circle of Susceptibility
     * Added Sculptor unit
-    * Rhami line attack name: devine -> divine
     * Era id is now available in variable era_id
-    * RPG era Mystic Jinn drains changed
 * Outstanding issues
-    * None
+    * Organizing this era
