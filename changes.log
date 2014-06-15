@@ -37,5 +37,10 @@ Brungar units coastal reef def 0% -> 40% or what that unit should have had
 EFM faction select images fixed
 Awake changed to cleaner code, from EoMa
 Steam Berserker cost 19 -> 38
+Fanatic cost 18 -> 32
 
-# Need more rpg changes still
+# Change randoms - option without EE. one possibility is creating functionality and letting people uncomment it
+vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * (-1,5) + 10]   &   there is 20% chance after hit that it works
+# new avian faction - seems incomplete
+# race human and Human too long, group them, same for dwarves
+# EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3
