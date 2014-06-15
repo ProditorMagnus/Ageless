@@ -1,6 +1,7 @@
 Version 4.11:
 * Eras and Factions
     * Era of Magic: Added Destroyers faction
+    * Era of Four Moons: Added Dalefolk, Freemen, Pygmies, Whites
 * Graphics
     * Tharis: New images for most units
 * Balance
