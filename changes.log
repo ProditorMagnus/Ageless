@@ -44,3 +44,5 @@ vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * 
 # new avian faction - seems incomplete
 # race human and Human too long, group them, same for dwarves
 # EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3
+
+# maybe dimensional gate enerfy draining
