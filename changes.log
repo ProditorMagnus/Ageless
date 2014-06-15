@@ -1,4 +1,4 @@
-Jinn level 4 -> removed wrong drains # to ifndef there
+	Jinn level 4 -> removed wrong drains if rpg era
 	Summoners alignment to original
 	Summoners summoned unit types to original
 	Added Circle of Susceptibility
@@ -20,7 +20,6 @@ Jinn level 4 -> removed wrong drains # to ifndef there
 	Removed medusae witch petrify as it never ends
 	possibly learn to use if defined for jinn as SiegeTank has good point, also brungar balance, if define work then for steelhive berserker too, didnt work that way so using normal vars
 	EoMa battlemage hp
-# if possible unlist default
 # vector? - better remain as is
 	Fleshpool bug
 	Yokai ids prefixed with AE
@@ -31,18 +30,21 @@ Jinn level 4 -> removed wrong drains # to ifndef there
 	Steelhive oculus line changed to mixed_fighter as that is in ai recruit pattern
 	Added weapon special interrupt to AE Magni Secutor Leonis to compensate for almost no upgrade from level 2 to 3
 	Conjurer cost 32->39
-Slavers fixed some def animations
+	Slavers fixed some def animations
 	Alligator Rider experience increased
-Brungar units coastal reef def 0% -> 40% or what that unit should have had
-EFM faction select images fixed
-Awake changed to cleaner code, from EoMa
-Steam Berserker cost 19 -> 38
-Fanatic cost 18 -> 32
-Added EFM missing factions
-# Change randoms - option without EE. one possibility is creating functionality and letting people uncomment it
-vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * (-1,5) + 10]   &   there is 20% chance after hit that it works
-# new avian faction - seems incomplete
-# race human and Human too long, group them, same for dwarves
-# EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3
+	Brungar units coastal reef def 0% -> 40% or what that unit should have had
+	EFM faction select images fixed
+	Awake changed to cleaner code, from EoMa
+	Steam Berserker cost 19 -> 38
+	Fanatic cost 18 -> 32
+	Added EFM missing factions
+Vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * (-1,5) + 10]   &   there is 20% chance after hit that it works
+EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3 changed
+Change randoms - option without EE. one possibility is creating functionality and letting people uncomment it --- done as on as default
+Fixed lightshifter
 
+
+# new avian faction - seems incomplete
+
+# race human and Human too long, group them, same for dwarves
 # maybe dimensional gate enerfy draining
