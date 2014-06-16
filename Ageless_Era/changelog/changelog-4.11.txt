@@ -14,7 +14,7 @@ Version 4.11:
     * Movetypes for Loyalist and Light Spirit
     * Fixed Rune Aura, Fleshpool Sacrifice, Brungar Coastal Reef, Holy resists, Statue line petrify, Lightshifter, Added missing unit Bone Snapper
 * Other
-    * Summoner line to lawful, changed summon of Heavy Summoner, added Circle of Susceptibility
+    * Summoner line changed to more EoMa like, changed summon of Heavy Summoner, added Circle of Susceptibility
     * Era id is now available in variable era_id
     * Added more options for random faction
 * Outstanding issues
