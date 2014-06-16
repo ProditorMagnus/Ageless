@@ -7,7 +7,7 @@ Version 4.11:
 * Balance
     * Medusa Witch: Removed petrifies as it never ended, added sculpt instead
     * Secutor Leonis: Added ranged attack with weapon special interrupt
-    * Conjurer: Cost 32 -> 39, Alligator Rider: Experience 33 -> 43, Battlemage: Hitpoints 25 -> 30, Spore Hive: Cost 8 -> 32, Steam Berserker cost 19 -> 38, Fanatic cost 18 -> 32, Stoic line: Increased xp requirements
+    * Conjurer: Cost 32 -> 39, Alligator Rider: Experience 33 -> 43, Battlemage: Hitpoints 25 -> 30, Spore Hive: Cost 8 -> 32, Steam Berserker cost 19 -> 38, Fanatic cost 18 -> 32, Stoic line: Increased xp requirements, Tamers: Lowered attacks
 * Bug Fixes
     * Fixed unit ids with symbols that caused corrupt savegames
     * Fixed Sky Kingdom Hidden Face, Dark Blood Alliance Clan Leader in faction select
