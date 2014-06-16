@@ -45,9 +45,12 @@ Vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * 
 EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3 changed
 Change randoms - option without EE. one possibility is creating functionality and letting people uncomment it --- done as on as default
 Fixed lightshifter
+Changed Cold Aura
 
 
 # new avian faction - seems incomplete
 
 # race human and Human too long, group them, same for dwarves
 # maybe dimensional gate enerfy draining
+
+# cold aura is different!
