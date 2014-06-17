@@ -49,7 +49,9 @@ Changed Cold Aura
 Archdaemon: melee dmg+1, health +7
 Buffed Desert Shyde
 Changed EoMa according to its changelog
-
+Lowered Ukian Attackdog damage
+Lowered Mummy line health
+Fixed ice bear movetype
 
 # new avian faction - seems incomplete
 
@@ -57,5 +59,3 @@ Changed EoMa according to its changelog
 # maybe dimensional gate energy draining
 
 # need to change kharos protector to not hurt kirios
-# ice bear! 425 in level 2 array
-# dark blood alliance unit descriptions
