@@ -1,3 +1,4 @@
+Less edited changelog, didn't want to make in game one too long. ~Laela
 	Jinn level 4 -> removed wrong drains if rpg era
 	Summoners alignment to original
 	Summoners summoned unit types to original
