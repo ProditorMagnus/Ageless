@@ -30,7 +30,8 @@ The bow girl tradition has occasionally produced legends of heroines brave as an
 
     [attack]
         name=knife
-        description= _ "sword"
+        description= _ "This unit is from The Era of Four Moons. It's coding was done by Velensk and art by L. Shelby.
+sword"
         icon=attacks/sword-elven.png
         type=blade
         range=melee
@@ -39,7 +40,8 @@ The bow girl tradition has occasionally produced legends of heroines brave as an
     [/attack]
     [attack]
         name=bow
-        description= _ "long bow"
+        description= _ "This unit is from The Era of Four Moons. It's coding was done by Velensk and art by L. Shelby.
+long bow"
         type=pierce
         range=ranged
         damage=11

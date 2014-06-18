@@ -60,7 +60,7 @@ Um is a top secret weapon of Enlightened Kingdom. This powerful, magical creatur
         icon=attacks/fist-troll.png
         type=pierce
         range=melee
-        damage=20
+        damage=14
         number=2
         [specials]
             {WEAPON_SPECIAL_MAGICAL}
@@ -72,7 +72,7 @@ Um is a top secret weapon of Enlightened Kingdom. This powerful, magical creatur
         icon=attacks/fist-troll.png
         type=impact
         range=melee
-        damage=20
+        damage=14
         number=2
         [specials]
             {WEAPON_SPECIAL_MAGICAL}
