@@ -1,9 +1,10 @@
-Version ?.??:
+Version 4.12:
 * Eras and Factions
 * Graphics
 * Balance
     * Phalanx: level 2 -> 3
 * Bug Fixes
+    * Stone fixed killing case
 * Other
 * Outstanding issues
     * Organizing this era and balance
