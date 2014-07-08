@@ -1,5 +1,6 @@
 Version 4.12:
 * Eras and Factions
+    * Sergeant added to EE loyalist heroes recruits
 * Graphics
 * Balance
     * Phalanx: level 2 -> 3
