@@ -1,4 +1,4 @@
-Version 4.12:
+Version 4.12dev:
 * Eras and Factions
     * Sergeant added to EE loyalist heroes recruits
 * Graphics
